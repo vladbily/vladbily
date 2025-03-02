@@ -19,6 +19,7 @@
 | [Трекер криптовалют](https://github.com/vladbily/crypto) | Веб-приложение для отслеживания курсов | React, FastAPI |
 | [AI-Тетрис](https://github.com/flexyw1be/AI-tetris) | Игра с ИИ на генетических алгоритмах | Python, DEAP |
 | [Flappy Bird AI](https://github.com/vladbily/AI_BEBRA_IS_TRYING_TO_STAY_ALIVE_1) | Нейросеть для игры Flappy Bird | Python, NEAT |
+| [Трекер криптовалют на Golang](https://github.com/vladbily/TOKENS_KEEPER) | Desktop приложение для отслеживания стоимости портфеля | Golang, Fyne |
 
 ---
 
